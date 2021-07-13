@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Super highway, coast to coast
 Use the left arrow to go back!
